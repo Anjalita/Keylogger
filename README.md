@@ -73,4 +73,3 @@ I'm happy to help!
 ---
 
 > Disclaimer: This project is made only for learning and demonstration. Misusing this script for malicious purposes is strictly discouraged and may be illegal.
-```
