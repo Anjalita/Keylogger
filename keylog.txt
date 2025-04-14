@@ -1,0 +1,102 @@
+2025-04-14 15:16:06,224 - Keylogger is running... Press ESC to stop.
+2025-04-14 15:16:14,716 - Shift key pressed
+2025-04-14 15:16:14,983 - Alphabets pressed: H
+2025-04-14 15:16:15,488 - Alphabets pressed: e
+2025-04-14 15:16:15,695 - Alphabets pressed: y
+2025-04-14 15:16:16,663 - Shift key pressed
+2025-04-14 15:16:16,903 - Spcl Character pressed: !
+2025-04-14 15:16:18,031 - Enter pressed, sentence complete: Hey!
+2025-04-14 15:16:18,031 - Complete sentence: Hey!
+2025-04-14 15:16:18,450 - Shift key pressed
+2025-04-14 15:16:18,686 - Alphabets pressed: T
+2025-04-14 15:16:19,183 - Alphabets pressed: h
+2025-04-14 15:16:19,383 - Alphabets pressed: i
+2025-04-14 15:16:19,512 - Alphabets pressed: s
+2025-04-14 15:16:19,667 - Space pressed, current word: This
+2025-04-14 15:16:19,863 - Alphabets pressed: i
+2025-04-14 15:16:19,984 - Alphabets pressed: s
+2025-04-14 15:16:20,076 - Space pressed, current word: is
+2025-04-14 15:16:20,328 - Alphabets pressed: m
+2025-04-14 15:16:20,642 - Alphabets pressed: y
+2025-04-14 15:16:20,855 - Space pressed, current word: my
+2025-04-14 15:16:21,593 - Numeric pressed: 1
+2025-04-14 15:16:21,845 - Alphabets pressed: s
+2025-04-14 15:16:22,023 - Alphabets pressed: t
+2025-04-14 15:16:22,210 - Space pressed, current word: 1st
+2025-04-14 15:16:22,788 - Alphabets pressed: k
+2025-04-14 15:16:22,909 - Alphabets pressed: e
+2025-04-14 15:16:23,079 - Alphabets pressed: y
+2025-04-14 15:16:23,392 - Alphabets pressed: l
+2025-04-14 15:16:23,627 - Alphabets pressed: o
+2025-04-14 15:16:23,752 - Alphabets pressed: o
+2025-04-14 15:16:24,047 - Alphabets pressed: g
+2025-04-14 15:16:24,191 - Alphabets pressed: e
+2025-04-14 15:16:24,279 - Alphabets pressed: r
+2025-04-14 15:16:24,470 - Space pressed, current word: keylooger
+2025-04-14 15:16:25,027 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:25,188 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:25,324 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:25,464 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:25,608 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:26,319 - Alphabets pressed: g
+2025-04-14 15:16:26,445 - Alphabets pressed: g
+2025-04-14 15:16:26,588 - Alphabets pressed: e
+2025-04-14 15:16:26,699 - Alphabets pressed: r
+2025-04-14 15:16:27,206 - Space pressed, current word: gger
+2025-04-14 15:16:31,346 - Alphabets pressed: w
+2025-04-14 15:16:31,594 - Alphabets pressed: h
+2025-04-14 15:16:31,793 - Alphabets pressed: i
+2025-04-14 15:16:32,294 - Alphabets pressed: c
+2025-04-14 15:16:32,521 - Alphabets pressed: h
+2025-04-14 15:16:32,711 - Space pressed, current word: which
+2025-04-14 15:16:33,074 - Alphabets pressed: i
+2025-04-14 15:16:33,290 - Space pressed, current word: i
+2025-04-14 15:16:33,591 - Alphabets pressed: h
+2025-04-14 15:16:33,760 - Alphabets pressed: a
+2025-04-14 15:16:33,968 - Alphabets pressed: v
+2025-04-14 15:16:34,057 - Alphabets pressed: e
+2025-04-14 15:16:34,153 - Space pressed, current word: have
+2025-04-14 15:16:34,728 - Alphabets pressed: d
+2025-04-14 15:16:35,276 - Alphabets pressed: e
+2025-04-14 15:16:35,549 - Alphabets pressed: v
+2025-04-14 15:16:35,714 - Alphabets pressed: e
+2025-04-14 15:16:36,369 - Alphabets pressed: l
+2025-04-14 15:16:36,801 - Alphabets pressed: o
+2025-04-14 15:16:37,047 - Alphabets pressed: p
+2025-04-14 15:16:37,273 - Alphabets pressed: e
+2025-04-14 15:16:37,568 - Alphabets pressed: d
+2025-04-14 15:16:37,813 - Space pressed, current word: developed
+2025-04-14 15:16:38,279 - Alphabets pressed: u
+2025-04-14 15:16:38,398 - Alphabets pressed: s
+2025-04-14 15:16:38,490 - Alphabets pressed: i
+2025-04-14 15:16:38,619 - Alphabets pressed: n
+2025-04-14 15:16:38,850 - Alphabets pressed: g
+2025-04-14 15:16:39,027 - Space pressed, current word: using
+2025-04-14 15:16:39,700 - Alphabets pressed: p
+2025-04-14 15:16:39,989 - Alphabets pressed: y
+2025-04-14 15:16:40,189 - Alphabets pressed: t
+2025-04-14 15:16:40,327 - Alphabets pressed: h
+2025-04-14 15:16:40,616 - Alphabets pressed: o
+2025-04-14 15:16:40,859 - Alphabets pressed: n
+2025-04-14 15:16:41,781 - Enter pressed, sentence complete: This is my 1st keylooger gger which i have developed using python
+2025-04-14 15:16:41,781 - Complete sentence: This is my 1st keylooger gger which i have developed using python
+2025-04-14 15:16:43,447 - Enter pressed, sentence complete: 
+2025-04-14 15:16:43,447 - Complete sentence: 
+2025-04-14 15:16:48,152 - Special key pressed: <65437>
+2025-04-14 15:16:48,409 - Numeric pressed: 0
+2025-04-14 15:16:48,646 - Special key pressed: <65437>
+2025-04-14 15:16:48,897 - Numeric pressed: 7
+2025-04-14 15:16:49,179 - Special key pressed: <65437>
+2025-04-14 15:16:50,866 - Enter pressed, sentence complete: 07
+2025-04-14 15:16:50,866 - Complete sentence: 07
+2025-04-14 15:16:51,657 - Down Arrow key pressed
+2025-04-14 15:16:51,954 - Up Arrow key pressed
+2025-04-14 15:16:52,853 - Down Arrow key pressed
+2025-04-14 15:16:53,104 - Up Arrow key pressed
+2025-04-14 15:16:53,360 - Right Arrow key pressed
+2025-04-14 15:16:53,675 - Left Arrow key pressed
+2025-04-14 15:16:55,168 - Tab pressed
+2025-04-14 15:16:57,958 - Backspace pressed, but no word to delete.
+2025-04-14 15:16:58,184 - Backspace pressed, but no word to delete.
+2025-04-14 15:17:05,071 - Special key pressed: Key.esc
+2025-04-14 15:17:05,216 - Keylogger stopped by user.
