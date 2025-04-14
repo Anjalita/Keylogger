@@ -40,7 +40,7 @@ pip install pynput
 2. Make sure `pynput` is installed (`pip install pynput`)
 3. Run the script:
 ```bash
-python3 keylog.py
+python3 keylogger.py
 ```
 4. Keystrokes will be recorded and saved in `keylog.txt`
 
